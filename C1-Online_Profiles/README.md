@@ -19,4 +19,7 @@ I talked with my mentor and gave my googledocs shared access(with edit option) t
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
+Uploaded PDF resume location here
+liftoff-assignments\C1-Online_Profiles\Santhoshni-JavaDeveloper LiftOff.pdf
+
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
